@@ -107,10 +107,8 @@ cout<<"\n\n<------------------------- Data Encryption Software -----------------
 cout<<"\n This software uses the modern RSA Encryption Algorithm to Encrypt Your Data.\n";
 cout<<" For better Data Protection a mix Algorithm of ADS(Advance Data Encryption)\n";
 cout<<" is used to protect your data from being stolen by Hackers.\n";
-cout<<" Developed by :  Mayank Kumar\n";
-cout<<"                 B.Tech (CSE)\n";
-cout<<"                 BETN1CS15059\n";
-cout<<"                 @copyright mayankKumar\n";
+cout<<" Developed by :  Mayank Kumar Jha\n";
+cout<<"                 @copyright mayankKumar_jha\n";
 cout<<"\n<--------------------------------------------------------------------------->\n";
 cout<<"\n<--------------------------------------------------------------------------->\n";
 }
